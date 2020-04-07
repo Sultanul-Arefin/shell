@@ -15,7 +15,7 @@ read a
 echo "Enter Second Value: "
 read b
 
-if [ $a > $b ]
+if [ $a -gt $b ]
 then
 	echo "a is greater than b"
 else
