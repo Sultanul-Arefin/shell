@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # the $ character represents the process ID number, or PID, of the current shell
 # Some special variables

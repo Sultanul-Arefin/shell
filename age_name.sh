@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 #Author: Sultanul Arefin
 # Copyrights: fahimsultan4@gmail.com

@@ -1,3 +1,4 @@
+#!/bin/bash
 NAME[0]="Fahim"
 NAME[1]="Sultan"
 NAME[2]="Mahnaz"

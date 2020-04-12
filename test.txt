@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 filename=test.txt
 vi $filename <<EndOfCommands

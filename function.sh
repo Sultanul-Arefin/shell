@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # deining function
 name(){
