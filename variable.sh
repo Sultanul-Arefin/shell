@@ -13,3 +13,4 @@ echo $AGE #no result will be printed, because this variable is unset
 # i) Local Variables
 # ii) Environment Variables
 # iii) Shell Variables
+
