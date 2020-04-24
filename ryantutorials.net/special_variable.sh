@@ -24,3 +24,7 @@ echo "The hostname of the machine: $HOSTNAME"
 echo "The number of seconds since the script was started: $SECONDS"
 echo "Returns a different random number each time is it referred to: $RANDOM"
 echo "Returns the current line number in the bash script: $LINENO"
+myvar=$( ls /etc | wc -l )
+echo "there are $myvar lines in /etc directory"
+ls=$(ls)
+echo $ls
